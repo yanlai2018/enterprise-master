@@ -20,7 +20,7 @@
     </div>
     <div class="foot_bottom">
         <p> Copyright
-            2022 <%=SystemManage.getInstance().getSystemSetting().getTitle()%> <%=SystemManage.getInstance().getSystemSetting().getIcp()%>
+            2022 <%=SystemManage.getInstance().getSystemSetting().getTitle()%> <a href="http://beian.miit.gov.cn" style="color: #fff;"><%=SystemManage.getInstance().getSystemSetting().getIcp()%></a>
         </p>
     </div>
 </div>
